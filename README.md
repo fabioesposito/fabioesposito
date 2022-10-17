@@ -15,3 +15,4 @@ Don't blame, but think about what's next. Own the solution. There is always anot
 Let’s have fun while we build amazing solutions together
 
 
+https://www.16personalities.com/infj-personality
