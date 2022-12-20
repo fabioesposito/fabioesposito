@@ -14,5 +14,16 @@ Don't blame, but think about what's next. Own the solution. There is always anot
 
 Let’s have fun while we build amazing solutions together
 
-
+## Personality test
 https://www.16personalities.com/infj-personality
+
+## Technologies that I love
+- Linux / FreeBSD / OpenBSD
+- Go / PHP / Java / Typscript
+- Reactjs / Astro
+- MySQL / Postgresql / Elasticseach / Mongodb / Cassandra 
+- Redis
+- RabbitMQ / Kafka
+- AWS / Google Cloud / kubernetes / Docker
+- CI/CD
+
