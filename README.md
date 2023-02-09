@@ -19,7 +19,7 @@ https://www.16personalities.com/infj-personality
 
 ## Technologies that I love
 - Linux / FreeBSD / OpenBSD
-- Go / PHP / Java / Typscript
+- Go / PHP / Java / Typescript
 - Reactjs / Astro
 - MySQL / Postgresql / Elasticseach / Mongodb / Cassandra 
 - Redis
