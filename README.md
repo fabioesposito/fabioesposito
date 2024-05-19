@@ -18,7 +18,9 @@ Let’s have fun while we build amazing solutions together
 https://www.16personalities.com/infj-personality
 
 ## Technologies that I love
-- OS: Linux 
+- OS: Linux
+- Editor: Neovim
+- LLM: Ollama / Langchain tools
 - Backend: Go / Typscript / Java
 - Frontend: HTMX / Solidjs / React
 - Storage: Postgresql / Elasticseach / Redis
