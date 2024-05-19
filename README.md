@@ -18,12 +18,10 @@ Let’s have fun while we build amazing solutions together
 https://www.16personalities.com/infj-personality
 
 ## Technologies that I love
-- Linux / FreeBSD / OpenBSD
-- Go / PHP / Java / Typscript
-- Reactjs / Astro
-- MySQL / Postgresql / Elasticseach / Mongodb / Cassandra 
-- Redis
-- RabbitMQ / Kafka
-- AWS / Google Cloud / kubernetes / Docker
-- CI/CD
+- OS: Linux 
+- Backend: Go / Typscript / Java
+- Frontend: HTMX / Solidjs / React
+- Storage: Postgresql / Elasticseach / Redis
+- Queueing: NATS / SQS / SNS / PubSub
+- Containers: kubernetes / Docker / Podman
 
