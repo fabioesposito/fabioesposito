@@ -14,6 +14,13 @@ Don't blame, but think about what's next. Own the solution. There is always anot
 
 Let’s have fun while we build amazing solutions together
 
+
+## Podcast interviews (pt-BR)
+
+- Vistos, cidadanias e compra de imóveis no norte da Europa – [Dev Sem Fronteiras #15](https://www.youtube.com/watch?v=LDUQugH5taM)
+- Testando idiomas com voz no ChatGPT, e o futuro do e-commece com as IAs – [Hipsters: Fora de Controle #27](https://www.hipsters.tech/testando-idiomas-com-voz-no-chatgpt-e-o-futuro-do-e-commece-com-as-ias-hipsters-fora-de-controle-27/)
+
+
 ## Personality test
 https://www.16personalities.com/infj-personality
 
@@ -24,6 +31,6 @@ https://www.16personalities.com/infj-personality
 - Backend: Go / Typscript / Java
 - Frontend: HTMX / Solidjs / React
 - Storage: Postgresql / Elasticseach / Redis
-- Queueing: NATS / SQS / SNS / PubSub
-- Containers: kubernetes / Docker / Podman
+- Queueing: PubSub / RabbitMQ / SQS / SNS
+- Containers: Kubernetes / Docker / Podman
 
