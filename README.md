@@ -28,7 +28,7 @@ https://www.16personalities.com/infj-personality
 - OS: Linux
 - Editor: Neovim
 - LLM: Ollama / Langchain tools
-- Backend: Go / Typscript / Java
+- Backend: Go / Typescript / Java
 - Frontend: HTMX / Solidjs / React
 - Storage: Postgresql / Elasticseach / Redis
 - Queueing: PubSub / RabbitMQ / SQS / SNS
